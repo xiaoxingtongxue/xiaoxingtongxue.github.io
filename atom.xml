@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.yaoxiaoxing.club/"/>
-  <updated>2016-09-10T04:35:19.985Z</updated>
+  <updated>2016-09-10T09:09:15.428Z</updated>
   <id>http://www.yaoxiaoxing.club/</id>
   
   <author>
@@ -14,6 +14,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Intellij Idea2016开发工具注册</title>
+    <link href="http://www.yaoxiaoxing.club/2016/09/10/Intellij%20Idea2016%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7%E6%B3%A8%E5%86%8C/"/>
+    <id>http://www.yaoxiaoxing.club/2016/09/10/Intellij Idea2016开发工具注册/</id>
+    <published>2016-09-10T10:26:20.000Z</published>
+    <updated>2016-09-10T09:09:15.428Z</updated>
+    
+    <content type="html"><![CDATA[<html><br><body><br><blockquote class="blockquote-center"><p></p><h3>Intellij Idea开发工具注册</h3><br>从eclipse和MyEclipse转过来的，刚开始入手Intellij Idea2016很不适应，但是花一点时间用适应了之后，真的感觉很不错。<br><a id="more"></a><p></p>
+<h4>1、官网下载地址： </h4><br>直接搜Intellij idea下载最新版的Intellij Idea2016.2（大概400M）<br><h4>2、下载完成之后傻瓜式安装就可以了 </h4><br>（这里需要将你的JDK升级到1.8以上的版本）<br><h4>3、安装完成之后，启动运行Intellij Idea2016工具，在这过程中有一个需要注册的步骤。</h4>
+
+<p>从大神处获取如下注册途径：<br>点击开始下载：<a href="http://pan.baidu.com/s/1pLH7cD1" target="_blank" rel="external">http://pan.baidu.com/s/1pLH7cD1</a><br>打开后下载里面的文件<br><img src="/images/post_images/001.jpg" class="full-image" alt="alt" title="文件内容"></p>
+<p><font color="red">双击它，得到如下图：</font><br><img src="/images/post_images/002.jpg" class="full-image" alt="alt" title="文件内容"></p>
+<p>复制图片中的licenseServer到IntellijIdea注册。到这里就成功了。<br><img src="/images/post_images/003.jpg" class="full-image" alt="alt" title="文件内容"><br>不用紧张，先如下图一样还是选择到通过“lincenserver”注册，然后点击“Discover server”<br><img src="/images/post_images/004.jpg" class="full-image" alt="alt" title="文件内容"><br>重新找到之前下载的licenserver，执行.exe文件，然后再回到步骤二的弹出框步骤中，执行“Activate”，之前的.exe文件命令，此时Intellij idea工具就可以打开继续使用了。<br><img src="/images/post_images/005.jpg" class="full-image" alt="alt" title="文件内容"></p>
+</blockquote><br><br><br><script type="text/javascript" src="http://tajs.qq.com/stats?sId=58416689" charset="UTF-8"></script><br></body><br></html>]]></content>
+    
+    <summary type="html">
+    
+      &lt;html&gt;&lt;br&gt;&lt;body&gt;&lt;br&gt;&lt;blockquote class=&quot;blockquote-center&quot;&gt;&lt;p&gt;&lt;h3&gt;Intellij Idea开发工具注册&lt;/h3&gt;&lt;br&gt;从eclipse和MyEclipse转过来的，刚开始入手Intellij Idea2016很不适应，但是花一点时间用适应了之后，真的感觉很不错。&lt;br&gt;
+    
+    </summary>
+    
+      <category term="Intellij Idea" scheme="http://www.yaoxiaoxing.club/categories/Intellij-Idea/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>勒布朗詹姆斯</title>
@@ -41,14 +67,14 @@
     <link href="http://www.yaoxiaoxing.club/2016/09/08/%E7%A7%91%E6%AF%94%E5%B8%83%E8%8E%B1%E6%81%A9%E7%89%B9/"/>
     <id>http://www.yaoxiaoxing.club/2016/09/08/科比布莱恩特/</id>
     <published>2016-09-08T10:26:20.000Z</published>
-    <updated>2016-09-10T03:52:11.545Z</updated>
+    <updated>2016-09-10T08:39:54.344Z</updated>
     
-    <content type="html"><![CDATA[<html><br><body><br><!-- HTML方式: 直接在 Markdown 文件中编写 HTML 来调用 --><br><!-- 其中 class="blockquote-center" 是必须的 --><br><blockquote class="blockquote-center"><p>科比·布莱恩特（Kobe Bryant），<br>1978年8月23日出生于美国宾夕法尼亚州费城，<br>前美国职业篮球运动员，<br>司职得分后卫/小前锋（锋卫摇摆人），<br>整个NBA生涯（1996年-2016年）一直效力于NBA洛杉矶湖人队，<br>是前美国职业篮球运动员乔·布莱恩特的儿子。<br><a id="more"></a><br>科比是NBA最好的得分手之一，突破、投篮、罚球、三分球他都驾轻就熟，<br>几乎没有进攻盲区，单场比赛81分的个人纪录就有力地证明了这一点。<br>除了疯狂的得分外，科比的组织能力也很出众，经常担任球队进攻的第一发起人。<br>另外科比还是联盟中最好的防守人之一，贴身防守非常具有压迫性。<br>2016年4月14日，在结束了生涯最后一场主场对阵爵士的常规赛之后，科比·布莱恩特正式宣布退役。</p>
+    <content type="html"><![CDATA[<html><br><body><br><blockquote class="blockquote-center"><p>科比·布莱恩特（Kobe Bryant），<br>1978年8月23日出生于美国宾夕法尼亚州费城，<br>前美国职业篮球运动员，<br>司职得分后卫/小前锋（锋卫摇摆人），<br>整个NBA生涯（1996年-2016年）一直效力于NBA洛杉矶湖人队，<br>是前美国职业篮球运动员乔·布莱恩特的儿子。<br><a id="more"></a><br>科比是NBA最好的得分手之一，突破、投篮、罚球、三分球他都驾轻就熟，<br>几乎没有进攻盲区，单场比赛81分的个人纪录就有力地证明了这一点。<br>除了疯狂的得分外，科比的组织能力也很出众，经常担任球队进攻的第一发起人。<br>另外科比还是联盟中最好的防守人之一，贴身防守非常具有压迫性。<br>2016年4月14日，在结束了生涯最后一场主场对阵爵士的常规赛之后，科比·布莱恩特正式宣布退役。</p>
 </blockquote><br><br><img src="/images/kebi.jpg" class="full-image" alt="alt" title="科比·布莱恩特"><br><br><script type="text/javascript" src="http://tajs.qq.com/stats?sId=58416689" charset="UTF-8"></script><br></body><br></html>]]></content>
     
     <summary type="html">
     
-      &lt;html&gt;&lt;br&gt;&lt;body&gt;&lt;br&gt;&lt;!-- HTML方式: 直接在 Markdown 文件中编写 HTML 来调用 --&gt;&lt;br&gt;&lt;!-- 其中 class=&quot;blockquote-center&quot; 是必须的 --&gt;&lt;br&gt;&lt;blockquote class=&quot;blockquote-center&quot;&gt;&lt;p&gt;科比·布莱恩特（Kobe Bryant），&lt;br&gt;1978年8月23日出生于美国宾夕法尼亚州费城，&lt;br&gt;前美国职业篮球运动员，&lt;br&gt;司职得分后卫/小前锋（锋卫摇摆人），&lt;br&gt;整个NBA生涯（1996年-2016年）一直效力于NBA洛杉矶湖人队，&lt;br&gt;是前美国职业篮球运动员乔·布莱恩特的儿子。&lt;br&gt;
+      &lt;html&gt;&lt;br&gt;&lt;body&gt;&lt;br&gt;&lt;blockquote class=&quot;blockquote-center&quot;&gt;&lt;p&gt;科比·布莱恩特（Kobe Bryant），&lt;br&gt;1978年8月23日出生于美国宾夕法尼亚州费城，&lt;br&gt;前美国职业篮球运动员，&lt;br&gt;司职得分后卫/小前锋（锋卫摇摆人），&lt;br&gt;整个NBA生涯（1996年-2016年）一直效力于NBA洛杉矶湖人队，&lt;br&gt;是前美国职业篮球运动员乔·布莱恩特的儿子。&lt;br&gt;
     
     </summary>
     
